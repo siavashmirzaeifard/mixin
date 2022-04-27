@@ -10,7 +10,7 @@ However abstract classes in Dart are the classes which can not be initialize but
 For more explanations:
 Please go to lib/main.dart and follow the comments.
 
-## Thanks to Vandad Nahavandipoor -> 
-   https://github.com/vandadnp, https://www.linkedin.com/in/vandadnp/
-## Full video in YouTube channel ->
-   https://www.youtube.com/watch?v=uI-42qQbB_8&list=PL6yRaaP0WPkVR2FiAS7TTCT_n2mDhwISE&index=3
+## Thanks to Vandad Nahavandipoor ->
+- [Vandad's GitHub](https://github.com/vandadnp)
+- [Vandad's LinkedIn](https://www.linkedin.com/in/vandadnp)
+- [Vandad's YouTube Channel](https://www.youtube.com/channel/UC8NpGP0AOQ0kX9ZRcohiPeQ)
